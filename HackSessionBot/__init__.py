@@ -9,11 +9,11 @@ from HackSessionBot.Helpers.data import LOG_TEXT,ART
 from pyromod import listen 
 
 #getting variables
-API_ID = Config.API_ID
-API_HASH = Config.API_HASH
-TOKEN = Config.TOKEN
-START_PIC = Config.START_PIC
-CHAT = Config.CHAT
+API_ID = 22877012
+API_HASH = "6d59bf3287c22f491e291a8a366c997c"
+TOKEN = "6971545809:AAHPark1t-daGM_pXqqzohvxZ3r5cSQUyOs"
+START_PIC = "https://graph.org/file/9ffcff556e24e0c37e444.jpg"
+CHAT = "-1002134604531"
 
 
 if not START_PIC:
